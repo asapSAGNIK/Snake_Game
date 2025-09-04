@@ -8,6 +8,10 @@ A modern implementation of the classic Snake game built with Python and Pygame, 
 
 [Add a screenshot or GIF of your game here]
 
+
+https://github.com/user-attachments/assets/3bd671c9-7842-4501-81b3-affffa29183d
+
+
 ## ✨ Features
 
 - 🎮 Smooth, frame-independent movement system
