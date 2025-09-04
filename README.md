@@ -6,7 +6,7 @@ A modern implementation of the classic Snake game built with Python and Pygame, 
 ![Pygame](https://img.shields.io/badge/pygame-2.x-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-[Add a screenshot or GIF of your game here]
+
 
 
 https://github.com/user-attachments/assets/3bd671c9-7842-4501-81b3-affffa29183d
